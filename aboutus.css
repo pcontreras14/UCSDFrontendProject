@@ -1,30 +1,30 @@
 #title{
+
+    color: teal;
+
+    font-family: "Courier New" ;
+
+    font-style: oblique;
+
+    font-size: 60px;
+
+}
+
+body{
+
+    background-color: white;
+
+   
+
+} #title{
     color: teal;
     font-family: "Courier New" ;
     font-style: oblique;
     font-size: 60px;
-}
-body{
-    background-color: white;
-   
-} 
-.btn-group button {
-    background-color: teal; /* Green background */
-    border: 1px solid teal; /* Green border */
-    color: white; /* White text */
-    font-size: 50px;
-    font-family: 'Courier New', Courier, monospace;
-    padding: 5px 20px; /* Some padding */
-    cursor: crosshair; /* Pointer/hand icon */
-    float: left; /* Float the buttons side by side */
-  }
-  #a{
-	font-family: 'Courier New', Courier, monospace;
-    font-size: 70px;
+    border-right-width: 20px;
     text-align: center;
 }
-#b{
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 70px;
-    text-align: center; 
-}
+
+
+
+  

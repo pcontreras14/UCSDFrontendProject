@@ -16,6 +16,7 @@ body
     font-style: oblique;
     font-size: 60px;
     border-right-width: 20px;
+    text-align: center;
 }
 
 .btn-group button {
